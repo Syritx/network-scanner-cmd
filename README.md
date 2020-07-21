@@ -1,5 +1,5 @@
 # network scanner cmd
-scan networks using your command line
+scan your networks using a command line
 
 ## Windows and Mac
 * to view web ip's, type <code>ping WEBSITE_URL</code>
