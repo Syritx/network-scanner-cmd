@@ -12,3 +12,6 @@ scan your networks using a command line
 
 ## Windows
 * to view your IP Address, type <code>ipconfig</code>
+
+## Notes
+* if arp-scan doesn't work, try installing it by using the command: <code>brew install arp-scan</code>
